@@ -1,4 +1,7 @@
+# Folders
 .pytest_cache/
 .vscode/
 __pycache__/
+
+# Files
 __init__.py
